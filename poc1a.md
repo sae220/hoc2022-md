@@ -11,23 +11,23 @@ Drop the right amount of colored blocks
 Use ``||hoc22.summonColoredBlock <color>||``
 
 ```ghost
-    hoc22.summonColoredBlock(YELLOW_CONCRETE)
+    hoc22.summonColoredBlock(ColoredBlocks.YellowConcrete)
     for (let index = 0; index < 4; index++) {
     	
     }    
 ```
 ```template
     for (let index = 0; index < 1; index++) {
-    	hoc22.summonColoredBlock(YELLOW_CONCRETE)
+    	hoc22.summonColoredBlock(ColoredBlocks.YellowConcrete)
     }
     for (let index = 0; index < 5; index++) {
-    	hoc22.summonColoredBlock(LIGHT_BLUE_CONCRETE)
+    	hoc22.summonColoredBlock(ColoredBlocks.LightBlueConcrete)
     }
     for (let index = 0; index < 3; index++) {
-    	hoc22.summonColoredBlock(MAGENTA_CONCRETE)
+    	hoc22.summonColoredBlock(ColoredBlocks.MagentaConcrete)
     }
     for (let index = 0; index < 1; index++) {
-    	hoc22.summonColoredBlock(LIME_CONCRETE)
+    	hoc22.summonColoredBlock(ColoredBlocks.LimeConcrete)
     }            
 ```
 ```package
