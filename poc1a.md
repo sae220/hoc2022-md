@@ -6,7 +6,7 @@
 # TESTING
 
 ## Step 1
-TESTING 3
+TESTING 4
 
 TEST for things
 
@@ -17,5 +17,5 @@ TEST for things
 //
 ```
 ```package
-
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts
 ```
