@@ -8,7 +8,8 @@
     "files": [
         "README.md",
         "crate.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "poc1a.md"
     ],
     "targetVersions": {
         "target": "1.6.11",
