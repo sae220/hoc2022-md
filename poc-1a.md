@@ -8,7 +8,7 @@
 # Beams of Color 2222
 
 ## Step 1
-Help Wonder Woman place stained glass on top of the beams of light to match the color pattern shown on the wall. You'll need to tell her where to move and which colors to place. 
+Help1111 Wonder Woman place stained glass on top of the beams of light to match the color pattern shown on the wall. You'll need to tell her where to move and which colors to place. 
 
 **Blocks Available:**  
 ``||ww:Move <direction> by <number>||`` - Wonder Woman will move in that direction the specified number of blocks.  
