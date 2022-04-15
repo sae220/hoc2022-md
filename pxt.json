@@ -7,7 +7,8 @@
     },
     "files": [
         "README.md",
-        "crate.md"
+        "crate.md",
+        "tutorial-info-cache.json"
     ],
     "targetVersions": {
         "target": "1.6.11",
