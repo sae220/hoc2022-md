@@ -9,7 +9,9 @@
         "README.md",
         "crate.md",
         "tutorial-info-cache.json",
-        "poc1a.md"
+        "poc1a.md",
+        "poc1b.md",
+        "poc1c.md"
     ],
     "targetVersions": {
         "target": "1.6.11",

@@ -3,23 +3,32 @@
 ### @explicitHints true
 
 
-# TESTING
+# Color Dropper
 
 ## Step 1
-TESTING 12
+Drop the right amount of colored blocks
 
-TEST for things
+Use ``||hoc22.summonColoredBlock <color>||``
 
 ```ghost
-    hoc22.summonWeight(Weight.CHICKEN)
+    hoc22.summonColoredBlock(YELLOW_CONCRETE)
     for (let index = 0; index < 4; index++) {
     	
     }    
 ```
 ```template
-    for (let index = 0; index < 4; index++) {
-    	hoc22.summonWeight(Weight.CHICKEN)
+    for (let index = 0; index < 1; index++) {
+    	hoc22.summonColoredBlock(YELLOW_CONCRETE)
     }
+    for (let index = 0; index < 5; index++) {
+    	hoc22.summonColoredBlock(LIGHT_BLUE_CONCRETE)
+    }
+    for (let index = 0; index < 3; index++) {
+    	hoc22.summonColoredBlock(MAGENTA_CONCRETE)
+    }
+    for (let index = 0; index < 1; index++) {
+    	hoc22.summonColoredBlock(LIME_CONCRETE)
+    }            
 ```
 ```package
 minecraft-hoc22=github:ReWrite-Media/hoc22-ts
