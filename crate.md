@@ -1,24 +1,12 @@
-### @codeStart players set @s makecode 0
-### @codeStop players set @s makecode 1
-
 ### @flyoutOnly true
-### @hideIteration true 
-### @explicitHints 1
+### @hideIteration true
+### @explicitHints true
 
-# Suspicious Crates
+
+# TESTING
 
 ## Step 1
-Help111 Wonder Woman move through the crates and find the missing painting piece. Search each one and if she finds the missing puzzle piece, have her break the box to get it.
-
-**Blocks Available:**  
-``||ww:Move <direction> by <number>||`` - Wonder Woman will move in that *direction* the given *number* of blocks.  
-``||ww:Turn <direction>||`` - Wonder Woman will turn in the given *direction*.  
-``||ww:painting inside crate <direction>||`` - Return a boolean (*true* | *false*) of whether the painting is found hidden in the given *direction*.  
-``||ww:Break crate <direction>||`` - Instruct Wonder Woman to try and retrieve the hidden painting.  
-``||loops:repeat <number> times||`` - Repeat code the given *number* of times.  
-``||loops:while <boolean>||`` - Repeatedly run the code while the boolean is *true*.  
-``||logic:if / then||`` - Checks if a condition is *true* and then does something if it is.  
-``||logic:not <boolean>||`` - Switches the operation of a condition. Example: *while <true>* vs. *while not <true>*  
+TESTING
 
 ```ghost
 player.onChat("run", function () {
@@ -43,5 +31,5 @@ player.onChat("run", function () {
 })
 ```
 ```package
-minecraft-ww1984=github:ReWrite-Media/ww1984-ts
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts
 ```
