@@ -6,7 +6,7 @@
 # TESTING
 
 ## Step 1
-TESTING 6
+TESTING 7
 
 TEST for things
 
@@ -17,5 +17,5 @@ TEST for things
 //
 ```
 ```package
-minecraft-ww1984=github:ReWrite-Media/ww1984-ts
+
 ```
