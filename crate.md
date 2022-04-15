@@ -31,5 +31,5 @@ player.onChat("run", function () {
 })
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts
+minecraft-ww1984=github:ReWrite-Media/ww1984-ts
 ```
