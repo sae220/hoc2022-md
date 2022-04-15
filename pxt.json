@@ -1,6 +1,6 @@
 {
     "name": "minecraft-hoc2022-md",
-    "version": "0.1.7",
+    "version": "0.1.8",
     "dependencies": {
         "core": "*",
         "builder": "*"
