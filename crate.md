@@ -6,7 +6,7 @@
 # TESTING
 
 ## Step 1
-TESTING 4
+TESTING 6
 
 ```ghost
 player.onChat("run", function () {
