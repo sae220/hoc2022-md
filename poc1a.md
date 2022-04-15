@@ -6,30 +6,16 @@
 # TESTING
 
 ## Step 1
-TESTING
+TESTING 2
+
+TEST ``||hoc22:Summon Chicken||`` for things
 
 ```ghost
-player.onChat("run", function () {
-    ww.moveWW(Direction.Forward, 1)
-    ww.turnWW(LEFT_TURN)
-    if (ww.locatePainting(Direction.Forward)) {
-        ww.retrievePainting(Direction.Forward)
-    }
-    for (let index = 0; index < 4; index++) {
-        
-    }
-    while (!(false)) {
-        
-    }	
-})
+ hoc22.summonChickenWeight()
 ```
 ```template
-player.onChat("run", function () {
-    if (ww.locatePainting(Direction.Forward)) {
-
-    }
-})
+//
 ```
 ```package
-minecraft-ww1984=github:ReWrite-Media/ww1984-ts
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts
 ```
