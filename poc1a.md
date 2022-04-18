@@ -6,7 +6,7 @@
 # Color Dropper
 
 ## Step 1
-Drop the right amount of colored blocks
+Drop the right amount of colored blocks TEST
 
 Use ``||hoc22.summonColoredBlock <color>||``
 
@@ -31,5 +31,5 @@ Use ``||hoc22.summonColoredBlock <color>||``
     }            
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.1.7
 ```
