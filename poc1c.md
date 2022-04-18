@@ -15,6 +15,6 @@ Use ``||agent.agent move||``
 ```
 ```template
     agent.move(UP, 3)
-    agent.move(LEFT, 2)
+    agent.move(RIGHT, 2)
     agent.move(DOWN, 3)
 ```
