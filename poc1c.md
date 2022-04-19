@@ -8,13 +8,17 @@
 ## Step 1
 Move the Agent to the GREEN block.
 
-Use ``||agent.agent move||``
+Use ``||hoc22.agent move||``
 
 ```ghost
-    agent.move(FORWARD, 1)
+    hoc22.agentMove(FORWARD, 1)
 ```
 ```template
-    agent.move(UP, 3)
-    agent.move(RIGHT, 2)
-    agent.move(DOWN, 3)
+    hoc22.agentMove(UP, 3)
+    hoc22.agentMove(RIGHT, 2)
+    hoc22.agentMove(DOWN, 3)
+```
+
+```package
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.0
 ```
