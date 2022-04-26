@@ -6,7 +6,7 @@
 # Mob Weight
 
 ## Step 1
-Make the scale add up to 10 lbs TEST
+Make the scale add up to 10 lbs
 
 Use ``||hoc22.summonWeight <mob>||``
 
@@ -22,5 +22,5 @@ Use ``||hoc22.summonWeight <mob>||``
     }
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.15
 ```

@@ -6,7 +6,7 @@
 # Agent Maze
 
 ## Step 1
-Move the Agent to the GREEN block.
+Move the Agent to the GREEN block 2.
 
 Use ``||hoc22.agent move||``
 
@@ -20,5 +20,5 @@ Use ``||hoc22.agent move||``
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.15
 ```
