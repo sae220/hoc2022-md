@@ -6,7 +6,7 @@
 # Agent Maze
 
 ## Step 1
-Move the Agent to the GREEN block 2.
+Move the Agent to the GREEN block.
 
 Use ``||hoc22.agent move||``
 
