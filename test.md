@@ -6,7 +6,7 @@
 # Test Markdown
 
 ## Step 1
-Do things to test
+Do things to test 3:18
 
 Use ``||hoc22.cursorMove <direction>||``
 
@@ -18,5 +18,5 @@ Use ``||hoc22.cursorMove <direction>||``
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.17
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.18
 ```
