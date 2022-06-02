@@ -11,10 +11,10 @@ Do things to test
 Use ``||hoc22.cursorMove <direction>||``
 
 ```ghost
-    hoc22.cursorMove(UP)
+    hoc22.cursorMove(ColoredBlockDirection.Up)
 ```
 ```template
-    hoc22.cursorMove(UP)
+    hoc22.cursorMove(ColoredBlockDirection.Up)
 ```
 
 ```package
