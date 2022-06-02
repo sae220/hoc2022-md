@@ -10,10 +10,11 @@
         "tutorial-info-cache.json",
         "poc1a.md",
         "poc1b.md",
-        "poc1c.md"
+        "poc1c.md",
+        "test.md"
     ],
     "targetVersions": {
-        "target": "1.6.11",
+        "target": "1.6.13",
         "targetId": "minecraft"
     },
     "supportedTargets": [
