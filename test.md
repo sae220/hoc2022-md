@@ -6,7 +6,7 @@
 # Test Markdown
 
 ## Step 1
-ALL BLOCKS FOR GREEN PATH TESTING
+ALL BLOCKS FOR GREEN PATH TESTING (UPDATED 4:34pm ET)
 
 Use ``||hoc22.cursorMove <direction>||``
 
@@ -42,5 +42,5 @@ Use ``||hoc22.cursorMove <direction>||``
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.23
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.24
 ```
