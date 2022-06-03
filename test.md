@@ -6,17 +6,41 @@
 # Test Markdown
 
 ## Step 1
-Do things to test 3:18
+ALL BLOCKS FOR GREEN PATH TESTING
 
 Use ``||hoc22.cursorMove <direction>||``
 
 ```ghost
+    hoc22.agentMove(SixDirection.Up, 5)
     hoc22.cursorMove(ColoredBlockDirection.Up)
+    hoc22.placeBlock()
+    hoc22.teleportLightBlueLever()
+    hoc22.teleportMagentaLever()
+    hoc22.teleportYellowLever()
+    hoc22.teleportOrangeLever()
+    hoc22.bakingBreadWheat()
+    hoc22.bakingBreadGrain()
+    hoc22.bakingBreadDough()
+    hoc22.bakingBreadBread()
+    hoc22.feedHouseApple()
+    hoc22.feedHouseSalmon()
+    hoc22.feedHouseMushroomStew()
+    hoc22.dinnerTableSwapRed()
+    hoc22.dinnerTableSwapGreen()
+    hoc22.dinnerTableSwapBlue()
+    hoc22.dinnerTableSwapYellow()
+    hoc22.mosaicPushUp()
+    hoc22.mosaicPushDown()
+    hoc22.mosaicPushLeft()
+    hoc22.mosaicPushRight()
+    hoc22.kingMove(ChessBlockDirection.Forward)
+    hoc22.queenMove(ChessBlockDirection.Forward)
+
 ```
 ```template
     hoc22.cursorMove(ColoredBlockDirection.Up)
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.19
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.23
 ```
