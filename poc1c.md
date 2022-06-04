@@ -20,5 +20,5 @@ Use ``||hoc22.agent move||``
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.16
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.27
 ```

@@ -11,7 +11,16 @@
         "poc1a.md",
         "poc1b.md",
         "poc1c.md",
-        "test.md"
+        "test.md",
+        "study_move.md",
+        "study_mirror.md",
+        "study_levers.md",
+        "kitchen_baking.md",
+        "kitchen_feedhouse.md",
+        "kitchen_plate.md",
+        "foyer_mosaic.md",
+        "foyer_bookshelf.md",
+        "foyer_chess.md"
     ],
     "targetVersions": {
         "target": "1.6.13",
