@@ -25,5 +25,5 @@ Something about those colored carpets seem weird. Use the ``||hoc22.teleport to 
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.27
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.28
 ```

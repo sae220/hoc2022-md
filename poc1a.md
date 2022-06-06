@@ -31,5 +31,5 @@ Use ``||hoc22.summonColoredBlock <color>||``
     }            
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.27
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.28
 ```
