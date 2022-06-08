@@ -34,5 +34,5 @@ Move the cusor above the fireplace using ``||hoc22.cursor move <direction>||`` t
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.28
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.29
 ```

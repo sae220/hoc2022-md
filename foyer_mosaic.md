@@ -24,5 +24,5 @@ Use the ``||hoc22.push <color> <direction>||`` blocks to trigger the pistons in 
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.28
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.29
 ```
