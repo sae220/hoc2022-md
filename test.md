@@ -6,7 +6,7 @@
 # Test Markdown
 
 ## Step 1
-ALL BLOCKS FOR GREEN PATH TESTING (UPDATED 2022-06-04 @ 12:46pm ET)
+ALL BLOCKS FOR GREEN PATH TESTING (UPDATED 2022-06-21 @ 12:05pm ET)
 
 Use ``||hoc22.cursorMove <direction>||``
 
@@ -35,6 +35,17 @@ Use ``||hoc22.cursorMove <direction>||``
     hoc22.mosaicPushRight()
     hoc22.kingMove(ChessBlockDirection.Forward)
     hoc22.queenMove(ChessBlockDirection.Forward)
+    hoc22.mixingPuzzleNetherWart()
+    hoc22.mixingPuzzlePhantomMembrane()
+    hoc22.mixingPuzzleSpiderEye()
+    hoc22.breakBlock()
+    hoc22.flowerPlantingRedFlower()
+    hoc22.flowerPlantingYellowFlower()
+    hoc22.flowerPlantingBlueFlower()
+    hoc22.minecraftSortingZombie()
+    hoc22.minecraftSortingSkeleton()
+    hoc22.minecraftSortingCreeper()
+
     for (let index = 0; index < 4; index++) {    }
 ```
 ```template
@@ -42,5 +53,5 @@ Use ``||hoc22.cursorMove <direction>||``
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.29
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.30
 ```
