@@ -21,5 +21,5 @@ Adjust the direction variable and how many blocks down it moves in order to reac
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.29
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.64
 ```

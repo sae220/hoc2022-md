@@ -6,12 +6,11 @@
 # Test Markdown
 
 ## Step 1
-ALL BLOCKS FOR GREEN PATH TESTING (UPDATED 2022-07-16 @03:35pm ET)
+ALL BLOCKS FOR GREEN PATH TESTING (UPDATED 2022-07-16 @07:50pm ET)
 
 Use ``||hoc22.cursorMove <direction>||``
 
 ```ghost
-    hoc22.cursorMoveOrientationOne(CursorOrientationOne.ArrowUpOrange,5)
     hoc22.cursorMoveOrientationTwo(CursorOrientationOne.ArrowLeftBlue,5)
     hoc22.agentMove(SixDirection.Up, 5)
     hoc22.cursorMove(ColoredBlockDirection.Up)
@@ -48,13 +47,34 @@ Use ``||hoc22.cursorMove <direction>||``
     hoc22.minecraftSortingSkeleton()
     hoc22.minecraftSortingCreeper()
 
+
+    hoc22.summonColoredBlockMagenta()
+    hoc22.summonColoredBlockLightBlue()
+    hoc22.summonColoredBlockYellow()
+    hoc22.summonColoredBlockLime()
+
+    hoc22.summonWeightChicken()
+    hoc22.summonWeightCow()
+    hoc22.summonWeightSheep()
+
+    hoc22.cursorMoveOrientationOneUp()
+    hoc22.cursorMoveOrientationOneDown()
+    hoc22.cursorMoveOrientationOneLeft()
+    hoc22.cursorMoveOrientationOneRight()
+
+    hoc22.cursorMoveOrientationTwoUp()
+    hoc22.cursorMoveOrientationTwoDown()
+    hoc22.cursorMoveOrientationTwoLeft()
+    hoc22.cursorMoveOrientationTwoRight()    
+
+    hoc22.toggleLight()
+
     for (let index = 0; index < 4; index++) {    }
 ```
 ```template
-    hoc22.cursorMoveOrientationOne(CursorOrientationOne.ArrowUpOrange,5)
-    hoc22.cursorMoveOrientationTwo(CursorOrientationTwo.ArrowLeftYellow,5) 
+    //
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.45
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.64
 ```
