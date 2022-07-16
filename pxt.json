@@ -23,7 +23,7 @@
         "foyer_chess.md"
     ],
     "targetVersions": {
-        "target": "1.6.13",
+        "target": "1.7.1",
         "targetId": "minecraft"
     },
     "supportedTargets": [

@@ -11,6 +11,8 @@ ALL BLOCKS FOR GREEN PATH TESTING (UPDATED 2022-06-21 @ 12:05pm ET)
 Use ``||hoc22.cursorMove <direction>||``
 
 ```ghost
+    hoc22.cursorMoveOrientationOne(CursorOrientationOne.ArrowUpOrange,5)
+    hoc22.cursorMoveOrientationTwo(CursorOrientationOne.ArrowLeftBlue,5)
     hoc22.agentMove(SixDirection.Up, 5)
     hoc22.cursorMove(ColoredBlockDirection.Up)
     hoc22.placeBlock()
@@ -49,7 +51,8 @@ Use ``||hoc22.cursorMove <direction>||``
     for (let index = 0; index < 4; index++) {    }
 ```
 ```template
-    hoc22.cursorMove(ColoredBlockDirection.Up)
+    hoc22.cursorMoveOrientationOne(CursorOrientationOne.ArrowUpOrange,5)
+    hoc22.cursorMoveOrientationTwo(CursorOrientationTwo.ArrowLeftYellow,5) 
 ```
 
 ```package
