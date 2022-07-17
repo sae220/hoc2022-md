@@ -13,7 +13,6 @@ Use ``||hoc22.cursorMove <direction>||``
 ```ghost
     hoc22.cursorMoveOrientationTwo(CursorOrientationOne.ArrowLeftBlue,5)
     hoc22.agentMove(SixDirection.Up, 5)
-    hoc22.cursorMove(ColoredBlockDirection.Up)
     hoc22.placeBlock()
     hoc22.teleportLightBlueLever()
     hoc22.teleportMagentaLever()
@@ -23,9 +22,9 @@ Use ``||hoc22.cursorMove <direction>||``
     hoc22.bakingBreadGrain()
     hoc22.bakingBreadDough()
     hoc22.bakingBreadBread()
-    hoc22.feedHouseApple()
-    hoc22.feedHouseSalmon()
-    hoc22.feedHouseMushroomStew()
+    hoc22.feedHouseApple(1)
+    hoc22.feedHouseSalmon(1)
+    hoc22.feedHouseMushroomStew(1)
     hoc22.dinnerTableSwapRed()
     hoc22.dinnerTableSwapGreen()
     hoc22.dinnerTableSwapBlue()
@@ -34,8 +33,8 @@ Use ``||hoc22.cursorMove <direction>||``
     hoc22.mosaicPushDown()
     hoc22.mosaicPushLeft()
     hoc22.mosaicPushRight()
-    hoc22.kingMove(ChessBlockDirection.Forward)
-    hoc22.queenMove(ChessBlockDirection.Forward)
+    hoc22.kingMove(ChessBlockDirection.Forward, 1)
+    hoc22.queenMove(ChessBlockDirection.Forward, 1)
     hoc22.mixingPuzzleNetherWart()
     hoc22.mixingPuzzlePhantomMembrane()
     hoc22.mixingPuzzleSpiderEye()
@@ -43,29 +42,29 @@ Use ``||hoc22.cursorMove <direction>||``
     hoc22.flowerPlantingRedFlower()
     hoc22.flowerPlantingYellowFlower()
     hoc22.flowerPlantingBlueFlower()
-    hoc22.minecraftSortingZombie()
-    hoc22.minecraftSortingSkeleton()
-    hoc22.minecraftSortingCreeper()
+    hoc22.minecraftSortingZombie(1)
+    hoc22.minecraftSortingSkeleton(1)
+    hoc22.minecraftSortingCreeper(1)
 
 
-    hoc22.summonColoredBlockMagenta()
-    hoc22.summonColoredBlockLightBlue()
-    hoc22.summonColoredBlockYellow()
-    hoc22.summonColoredBlockLime()
+    hoc22.summonColoredBlockMagenta(1)
+    hoc22.summonColoredBlockLightBlue(1)
+    hoc22.summonColoredBlockYellow(1)
+    hoc22.summonColoredBlockLime(1)
 
-    hoc22.summonWeightChicken()
-    hoc22.summonWeightCow()
-    hoc22.summonWeightSheep()
+    hoc22.summonWeightChicken(1)
+    hoc22.summonWeightCow(1)
+    hoc22.summonWeightSheep(1)
 
-    hoc22.cursorMoveOrientationOneUp()
-    hoc22.cursorMoveOrientationOneDown()
-    hoc22.cursorMoveOrientationOneLeft()
-    hoc22.cursorMoveOrientationOneRight()
+    hoc22.cursorMoveOrientationOneUp(1)
+    hoc22.cursorMoveOrientationOneDown(1)
+    hoc22.cursorMoveOrientationOneLeft(1)
+    hoc22.cursorMoveOrientationOneRight(1)
 
-    hoc22.cursorMoveOrientationTwoUp()
-    hoc22.cursorMoveOrientationTwoDown()
-    hoc22.cursorMoveOrientationTwoLeft()
-    hoc22.cursorMoveOrientationTwoRight()    
+    hoc22.cursorMoveOrientationTwoUp(1)
+    hoc22.cursorMoveOrientationTwoDown(1)
+    hoc22.cursorMoveOrientationTwoLeft(1)
+    hoc22.cursorMoveOrientationTwoRight(1)    
 
     hoc22.toggleLight()
 
@@ -76,5 +75,5 @@ Use ``||hoc22.cursorMove <direction>||``
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.65
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.69
 ```
