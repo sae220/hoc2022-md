@@ -12,21 +12,17 @@ The house is hungry! And what better to feed it than apples, salmon, and mushroo
 Pay attention to how many zombie chefs go by with each ingredient. Use the ``||hoc22.feed house <ingredient>||`` blocks to feed the house the required amount.
 
 ```ghost
-    hoc22.feedHouseApple()
-    hoc22.feedHouseSalmon()
-    hoc22.feedHouseMushroomStew()
-    for (let index = 0; index < 4; index++) {    }
+    hoc22.feedHouseApple(1)
+    hoc22.feedHouseSalmon(1)
+    hoc22.feedHouseMushroomStew(1)
 
 ```
 ```template
-    hoc22.feedHouseApple()
-    hoc22.feedHouseApple()
-    hoc22.feedHouseSalmon()
-    hoc22.feedHouseSalmon()
-    hoc22.feedHouseMushroomStew()
-    hoc22.feedHouseMushroomStew()
+    hoc22.feedHouseApple(2)
+    hoc22.feedHouseSalmon(3)
+    hoc22.feedHouseMushroomStew(2)
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.64
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.68
 ```
