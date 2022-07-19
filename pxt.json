@@ -20,7 +20,8 @@
         "kitchen_plate.md",
         "foyer_mosaic.md",
         "foyer_bookshelf.md",
-        "foyer_chess.md"
+        "foyer_chess.md",
+        "attic_green_1.md"
     ],
     "targetVersions": {
         "target": "1.7.1",
