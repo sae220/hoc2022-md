@@ -6,10 +6,10 @@
 # Potion Room - Potion Mixing
 
 ## Step 1
-Add some text describing the activity.
+This looks like I can make something! Maybe there is an ingredients list somewhere in this room that can help me?
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+You'll need one ``||hoc22.Nether Wart||``, ``||hoc22.Phantom Membrane||``, and ``||hoc22.Fermented Spider Eye||``. Summon each one at a time and knock it into the correct hole to create the potion.
 
 
 

@@ -6,10 +6,10 @@
 # Greenhouse - Cracked Wall
 
 ## Step 1
-Add some text describing the activity.
+We need more water! It looks like I can use the cursor to break some of these damanged bricks to get more water.
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+Move the cusor using the ``||hoc22.cursor move <direction>||`` block and then use ``||hoc22.break block||`` to break a block in that position. Break all 4 blocks to get enough water to get to the next puzzle. 
 
 
 
