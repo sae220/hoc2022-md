@@ -6,10 +6,10 @@
 # Red3 - Lazer Battery
 
 ## Step 1
-Add some text describing the activity.
+Fill in all the holes in the floor with the cursor to charge the lazer.
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+Fill in all of the holes that are above the gold block on the floor. You only need to add additional blocks to the default code.
 
 
 

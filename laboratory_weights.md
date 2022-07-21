@@ -6,10 +6,10 @@
 # Laboratory - Weights
 
 ## Step 1
-Add some text describing the activity.
+You need the scale to reach exactly 10 weight. Maybe there is a sign around here to tell me how much each mob weighs? 
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+Get the total weight to 10. A chicken is 1, a sheep is 4, and a cow is 5.
 
 
 

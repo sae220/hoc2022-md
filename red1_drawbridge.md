@@ -6,10 +6,10 @@
 # Red 1 - Drawbridge
 
 ## Step 1
-Add some text describing the activity.
+The zombie chef needs help getting across the river. See if you can help them by counting how many blocks they need to move forward before jumping.
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+Count how many blocks the zombie chef needs to move forward and use the ``||hoc.move <number>||`` to move the zombie forward. Then have the zombie super jump across the river. Remember you can use multiple ``||hoc.move <number>||`` blocks. Make sure the zombie pulls the lever as well!
 
 
 

@@ -6,10 +6,10 @@
 # Sludge Room - Block Breaker
 
 ## Step 1
-Add some text describing the activity.
+Use the cursor to break the blocks in front of the door to escape.
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+Make sure you are using ``||hoc22.break block||`` to break through enough blocks. You don't have to break all of them, just enough to get to the door.
 
 
 

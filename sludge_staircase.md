@@ -6,10 +6,10 @@
 # Sludge Room - Staircase
 
 ## Step 1
-Add some text describing the activity.
+Use your cursor to build a stair case!
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+You need to build a staircase that you as a player can climb over. Make sure you are building at least one block at a time so you can jump over it. Try modifying the default code instead of starting from scratch.
 
 
 
@@ -25,7 +25,7 @@ Add some text explaining the answer in detail.
     for (let index = 0; index < 2; index++) {
     hoc22.placeBlock()
     hoc22.cursorMoveOrientationOneUp(1)
-    hoc22.cursorMoveOrientationOneRight(1)    
+    hoc22.cursorMoveOrientationOneRight(2)    
         }
 ```
 ```package

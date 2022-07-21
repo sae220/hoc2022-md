@@ -6,10 +6,10 @@
 # Red3 - Light Power
 
 ## Step 1
-Add some text describing the activity.
+Use the cursor to toggle all of the lights on. Once all the lights are on the door will open.
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+Make sure you are toggling the light in every loop and moving the cusor by one each time. Some lights will already be on!
 
 
 

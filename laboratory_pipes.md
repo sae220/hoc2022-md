@@ -6,10 +6,10 @@
 # Laboratory - Pipes
 
 ## Step 1
-Add some text describing the activity.
+You'll need to add a specific amount of blocks to each of the hoppers. Maybe there is something in the room that can tell you how many?
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+Count how many blocks are on the landing behind the puzzle and add that many blocks to the hoppers. Your default code should be the correct amount for the first 3 hoppers. 
 
 
 

@@ -6,10 +6,10 @@
 # Red 1 - Maze
 
 ## Step 1
-Add some text describing the activity.
+The zombie chef needs you help getting through the maze to the emeralds on the other side. The lights on the wall seem to be associated with the doors in some way, but they only open when the other is closed. 
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+Use the levers on the wall to make sure the zombie chef has a path to get through. Make sure you have a path open before you use the code to move! Once you have a path set, use the ``||hoc22.move NPC <number>||`` block to get them to the emerald blocks. 
 
 
 

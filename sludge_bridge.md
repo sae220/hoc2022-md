@@ -6,10 +6,10 @@
 # Sludge Room - Bridge Builder
 
 ## Step 1
-Add some text describing the activity.
+Use your cursor to build a bridge that can help the zombie chef reach the button! A path up will appear once the zombie chef has pressed the button.
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+Move the cursor one block at a time and place a block each time to the button. The zombie chef will walk to the button once a bridge has been built for them.
 
 
 

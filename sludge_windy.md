@@ -6,10 +6,10 @@
 # Sludge Room - Windy Bridge
 
 ## Step 1
-Add some text describing the activity.
+Use your cursor to block the wind so you can walk across the bridge.
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+Use the symbols and colors on the arrows of the cursor to place a block below the stair blocks where the wind is coming out.
 
 
 

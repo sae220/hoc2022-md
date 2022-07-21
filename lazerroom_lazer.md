@@ -6,10 +6,10 @@
 # Lazer Room - Lazer Puzzle
 
 ## Step 1
-Add some text describing the activity.
+Solid blocks stop the lazer! Slide the rows on the floor to make the lazer go through the glass blocks instead. 
 
 #### ~ tutorialhint 
-Add some text explaining the answer in detail.
+The lazer needs to reach the lights at the end. You will need to slide the red row more than once, so add multiple blocks!
 
 
 
