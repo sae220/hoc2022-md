@@ -12,15 +12,15 @@ We've freed the king and queen! But the door still isn't opening. They must be i
 The chessboard represents a grid of dates. Search the room to figure out what dates the king and queen should be on and then use the ``||hoc22.move king <direction>||`` and ``||hoc22.move queen <direction>||`` blocks to move them into their correct positions.
 
 ```ghost
-    hoc22.kingMove(ChessBlockDirection.Forward, 1)
-    hoc22.queenMove(ChessBlockDirection.Forward, 1)
+    hoc22.kingMove(Custom.ArrowUpOrange, 1)
+    hoc22.queenMove(Custom.ArrowUpOrange, 1)
 
 ```
 ```template
-    hoc22.kingMove(ChessBlockDirection.Forward, 3)
-    hoc22.kingMove(ChessBlockDirection.Left, 1)
-    hoc22.queenMove(ChessBlockDirection.Right, 2)
-    hoc22.queenMove(ChessBlockDirection.Forward,1)          
+    hoc22.kingMove(Custom.ArrowUpOrange, 3)
+    hoc22.kingMove(Custom.ArrowLeftBlue, 1)
+    hoc22.queenMove(Custom.ArrowRightYellow, 2)
+    hoc22.queenMove(Custom.ArrowUpOrange,1)          
 ```
 
 ```package
