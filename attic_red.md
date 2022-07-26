@@ -20,5 +20,5 @@ Move the Agent right 14 blocks using the ``||hoc22.agent move <direction> by <nu
     hoc22.agentMove(SixDirection.Right, 10)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.75
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
 ```

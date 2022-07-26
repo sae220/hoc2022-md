@@ -24,5 +24,5 @@ Pay attention to how many zombie chefs go by with each ingredient. Use the ``||h
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.75
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
 ```

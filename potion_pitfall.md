@@ -16,11 +16,12 @@ Move the zombie forward by using the ``||hoc22.move zombie forward by <number>||
 ```ghost
     hoc22.zombieMoveForward(1)
     hoc22.waitForBlock()
+    for (let index = 0; index < 2; index++) {    }
 ```
 ```template
     hoc22.zombieMoveForward(2) 
     hoc22.zombieMoveForward(2)    
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.75
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
 ```

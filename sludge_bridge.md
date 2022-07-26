@@ -25,5 +25,5 @@ Move the cursor one block at a time and place a block each time to the button. T
     hoc22.placeBlock()
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.75
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
 ```

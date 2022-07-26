@@ -24,5 +24,5 @@ Get the total weight to 10. A chicken is 1, a sheep is 4, and a cow is 5.
       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.75
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
 ```

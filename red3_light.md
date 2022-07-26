@@ -29,5 +29,5 @@ Make sure you are toggling the light in every loop and moving the cusor by one e
      
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.75
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
 ```

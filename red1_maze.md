@@ -24,5 +24,5 @@ Use the levers on the wall to make sure the zombie chef has a path to get throug
     hoc22.npcMoveRight(3) 
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.75
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
 ```

@@ -26,5 +26,5 @@ Fill in all of the holes that are above the gold block on the floor. You only ne
     hoc22.placeBlock() 
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.75
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
 ```

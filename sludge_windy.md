@@ -25,5 +25,5 @@ Use the symbols and colors on the arrows of the cursor to place a block below th
     hoc22.placeBlock()
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.75
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
 ```
