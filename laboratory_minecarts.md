@@ -27,5 +27,5 @@ The sorting tool with sort the mobs first from right to left. Count the mobs tha
       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
 ```

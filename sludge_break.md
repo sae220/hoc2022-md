@@ -28,5 +28,5 @@ Make sure you are using ``||hoc22.break block||`` to break through enough blocks
     hoc22.cursorMoveOrientationOneRight(1)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
 ```

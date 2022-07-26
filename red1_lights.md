@@ -24,5 +24,5 @@ Use the blocks on the left to move the NPC to the correct lights. The order that
     hoc22.npcMoveYellow()
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
 ```

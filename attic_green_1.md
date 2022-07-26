@@ -21,5 +21,5 @@ Move the cursor three blocks forward using the ``||hoc22.cursorMoveOrientationOn
     hoc22.cursorMoveOrientationOneUp(2)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
 ```

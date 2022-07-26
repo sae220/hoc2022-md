@@ -29,5 +29,5 @@ You need to build a staircase that you as a player can climb over. Make sure you
         }
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
 ```

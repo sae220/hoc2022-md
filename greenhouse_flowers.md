@@ -35,5 +35,5 @@ Move the cusor using the ``||hoc22.cursor move <direction>||`` block and then us
         }         
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
 ```

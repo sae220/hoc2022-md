@@ -21,5 +21,5 @@ Use the ``||hoc22.agent move <direction> by <number>||`` block to move the Agent
     hoc22.agentMove(SixDirection.Left, 3)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
 ```

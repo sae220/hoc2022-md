@@ -24,5 +24,5 @@ Count how many blocks the zombie chef needs to move forward and use the ``||hoc.
     hoc22.pullLeverDown()  
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.76
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
 ```
