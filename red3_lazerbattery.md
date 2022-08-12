@@ -3,10 +3,10 @@
 ### @explicitHints true
 
 
-# Red3 - Lazer Battery
+# Red3 - Laser Battery
 
 ## Step 1
-Fill in all the holes in the floor with the cursor to charge the lazer.
+Fill in all the holes in the floor with the cursor to charge the laser.
 
 #### ~ tutorialhint 
 Fill in all of the holes that are above the gold block on the floor. You only need to add additional blocks to the default code.
@@ -26,5 +26,5 @@ Fill in all of the holes that are above the gold block on the floor. You only ne
     hoc22.placeBlock() 
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
 ```

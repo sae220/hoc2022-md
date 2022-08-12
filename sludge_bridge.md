@@ -6,10 +6,10 @@
 # Sludge Room - Bridge Builder
 
 ## Step 1
-Use your cursor to build a bridge that can help the zombie chef reach the button! A path up will appear once the zombie chef has pressed the button.
+Use your cursor to build a bridge that can help the crate minion reach the button! A path up will appear once the crate minion has pressed the button.
 
 #### ~ tutorialhint 
-Move the cursor one block at a time and place a block each time to the button. The zombie chef will walk to the button once a bridge has been built for them.
+Use the ``||hoc22.cursor move <direction>||`` block combined with ``||hoc22.place block||`` blocks to create a bridge to the button. The crate minion will walk to the button and press it once a bridge has been built for them.
 
 
 
@@ -21,9 +21,9 @@ Move the cursor one block at a time and place a block each time to the button. T
     hoc22.placeBlock()
 ```
 ```template
-    hoc22.cursorMoveOrientationOneUp(2)   
+    hoc22.cursorMoveOrientationOneRight(1)   
     hoc22.placeBlock()
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
 ```

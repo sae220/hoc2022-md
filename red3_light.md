@@ -6,10 +6,10 @@
 # Red3 - Light Power
 
 ## Step 1
-Use the cursor to toggle all of the lights on. Once all the lights are on the door will open.
+Use the cursor to turn all of the lights on. Once all the lights are on the door will open.
 
 #### ~ tutorialhint 
-Make sure you are toggling the light in every loop and moving the cusor by one each time. Some lights will already be on!
+Use the ``||hoc22.cursor move <direction>||`` block to select a light and then ``||hoc22.turn on||`` to turn it on. Using a loop will make the code a lot simplier, but isn't required.
 
 
 
@@ -24,10 +24,10 @@ Make sure you are toggling the light in every loop and moving the cusor by one e
 ```template  
     for (let index = 0; index < 3; index++) {
     hoc22.toggleLight()
-    hoc22.cursorMoveOrientationOneRight(1)       
+    hoc22.cursorMoveOrientationOneLeft(1)       
         }
      
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.78
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
 ```

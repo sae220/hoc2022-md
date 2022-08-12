@@ -6,10 +6,10 @@
 # Greenhouse - Flower Planting
 
 ## Step 1
-Oh no! It looks like the water isn't getting to where we want it to go. Fill in all the holes so the water can flow correctly. Try modifying the default code before you create your own.
+It looks like there is some type of pattern I need to follow to plant these flowers. Maybe the planters to the left and right could show me how I'm suppose to be planting these.
 
 #### ~ tutorialhint 
-Move the cusor using the ``||hoc22.cursor move <direction>||`` block and then use ``||hoc22.place block||`` to place a block in that position. Fill in all 6 holes that are above the black concrete to continue.
+Move the cusor using the ``||hoc22.cursor move <direction>||`` block and then use ``||hoc22.place <flower>||`` to place the correct flower. Match the pattern on the left and right to complete the puzzle.
 
 
 
@@ -35,5 +35,5 @@ Move the cusor using the ``||hoc22.cursor move <direction>||`` block and then us
         }         
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
 ```

@@ -15,11 +15,11 @@ Move the cursor three blocks forward using the ``||hoc22.cursorMoveOrientationOn
 
 ```ghost
     hoc22.cursorMoveOrientationOneUp(3)
-    hoc22.openTrapdoor
+    hoc22.openTrapdoor()
 ```
 ```template
     hoc22.cursorMoveOrientationOneUp(2)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
 ```

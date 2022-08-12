@@ -6,10 +6,10 @@
 # Red 1 - Maze
 
 ## Step 1
-The zombie chef needs you help getting through the maze to the emeralds on the other side. The lights on the wall seem to be associated with the doors in some way, but they only open when the other is closed. 
+The enderman butler needs your help getting through the maze to the emeralds on the other side. The lights on the wall seem to be associated with the doors in some way, but they only open when the other is closed. 
 
 #### ~ tutorialhint 
-Use the levers on the wall to make sure the zombie chef has a path to get through. Make sure you have a path open before you use the code to move! Once you have a path set, use the ``||hoc22.move NPC <number>||`` block to get them to the emerald blocks. 
+Use the levers on the wall to make sure the enderman has a path to get through. Make sure you have a path open before you use the code to move! Once you have a path set, use the ``||hoc22.move enderman butler||`` blocks to get them to the emerald blocks. 
 
 
 
@@ -24,5 +24,5 @@ Use the levers on the wall to make sure the zombie chef has a path to get throug
     hoc22.npcMoveRight(3) 
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
 ```

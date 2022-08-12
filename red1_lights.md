@@ -6,10 +6,10 @@
 # Red 1 - Lights
 
 ## Step 1
-The zombie chef needs some help getting to the right lights on top. Use your code to help them get to the right lights in the right order!
+The enderman butler needs some help getting to the right lights on top. Use your code to help them get to the right lights in the right order!
 
 #### ~ tutorialhint 
-Use the blocks on the left to move the NPC to the correct lights. The order that the lights are going off while the code isn't running should be the same order your code is in. 
+Use the ``||hoc22.move enderman butler||`` blocks to move the enderman butler to the correct lights. Pay attention to the pattern of the lights. Your code should match that pattern. 
 
 
 
@@ -24,5 +24,5 @@ Use the blocks on the left to move the NPC to the correct lights. The order that
     hoc22.npcMoveYellow()
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
 ```
