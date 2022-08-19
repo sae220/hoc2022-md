@@ -3,7 +3,7 @@
 ### @explicitHints true
 
 
-# Laboratory - Pipes
+# Pipes
 
 ## Step 1
 You'll need to add a specific amount of blocks to each of the hoppers. Maybe there is something in the room that can tell you how many?
@@ -26,5 +26,5 @@ Count how many blocks are on the landing behind the puzzle and add that many blo
       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

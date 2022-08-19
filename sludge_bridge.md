@@ -3,7 +3,7 @@
 ### @explicitHints true
 
 
-# Sludge Room - Bridge Builder
+# Bridge Builder
 
 ## Step 1
 Use your cursor to build a bridge that can help the crate minion reach the button! A path up will appear once the crate minion has pressed the button.
@@ -19,11 +19,14 @@ Use the ``||hoc22.cursor move <direction>||`` block combined with ``||hoc22.plac
     hoc22.cursorMoveOrientationOneLeft(1)
     hoc22.cursorMoveOrientationOneRight(1)
     hoc22.placeBlock()
+    for (let index = 0; index < 2; index++) {    }
 ```
 ```template
-    hoc22.cursorMoveOrientationOneRight(1)   
-    hoc22.placeBlock()
+    for (let index = 0; index < 2; index++) {  
+        hoc22.placeBlock()
+        hoc22.cursorMoveOrientationOneRight(1)   
+    }
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

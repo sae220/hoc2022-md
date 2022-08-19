@@ -3,7 +3,7 @@
 ### @explicitHints true
 
 
-# Greenhouse - Trough
+# Trough
 
 ## Step 1
 Oh no! It looks like the water isn't getting to where we want it to go. Fill in all the holes so the water can flow correctly. Try modifying the default code before you create your own.
@@ -33,5 +33,5 @@ Move the cusor using the ``||hoc22.cursor move <direction>||`` block and then us
         }      
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

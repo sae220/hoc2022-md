@@ -3,7 +3,7 @@
 ### @explicitHints true
 
 
-# Laboratory - Minecraft Redirection
+# Minecart Redirection
 
 ## Step 1
 The mobs need to be sorted into the right spaces! Look at the mobs currently waiting to be sorted and make sure the code sorts them in the right order.
@@ -27,5 +27,5 @@ The sorting tool with sort the mobs first from right to left. Count the mobs tha
       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

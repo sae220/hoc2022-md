@@ -9,7 +9,7 @@
 Things in the mirror appear differently than in the room. Find all the differences and modify the room to make them match.
 
 #### ~ tutorialhint 
-Move the cusor above the fireplace using ``||hoc22.cursor move <direction>||`` to select a position and ``||hoc22.place block||`` to place a block in that position.
+Move the cursor above the fireplace using ``||hoc22.cursor move <direction>||`` to select a position and ``||hoc22.place block||`` to place a block in that position.
 
 ```ghost
     hoc22.cursorMoveOrientationOneUp(1)
@@ -36,5 +36,5 @@ Move the cusor above the fireplace using ``||hoc22.cursor move <direction>||`` t
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

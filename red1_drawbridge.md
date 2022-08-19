@@ -3,13 +3,13 @@
 ### @explicitHints true
 
 
-# Red 1 - Drawbridge
+# Drawbridge
 
 ## Step 1
-The enderman butler needs help getting across the river. See if you can help them by counting how many blocks they need to move forward before jumping.
+The enderman butler needs help getting across the river. Teleport them across the river to the diamond block, then move them into position to pull the lever.
 
 #### ~ tutorialhint 
-Count how many blocks the enderman butler needs to move forward and use the ``||hoc.move enderman butler||`` to move the enderman forward. Then have the enderman super jump across the river. Remember you can use multiple ``||hoc.move enderman butler||`` blocks. Make sure the enderman pulls the lever as well!
+Teleport the enderman to the diamond block by using the ``||hoc22.teleport enderman||`` block. Then use the ``||hoc22.move enderman||`` block to position them and ``||hoc22.pull lever down||`` to flip the lever.
 
 
 
@@ -19,10 +19,11 @@ Count how many blocks the enderman butler needs to move forward and use the ``||
     hoc22.pullLeverDown()
 ```
 ```template
-    hoc22.endermanButlerMoveForward(1)
+    hoc22.endermanButlerMoveForward(2)
     hoc22.superJump()
+    hoc22.endermanButlerMoveForward(2)
     hoc22.pullLeverDown()  
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

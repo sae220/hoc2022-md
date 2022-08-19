@@ -3,13 +3,13 @@
 ### @explicitHints true
 
 
-# Red3 - Laser Battery
+# Laser Reveal
 
 ## Step 1
-Fill in all the holes in the floor with the cursor to charge the laser.
+Fill in all the holes in the floor with the cursor to open the red curtain.
 
 #### ~ tutorialhint 
-Fill in all of the holes that are above the gold block on the floor. You only need to add additional blocks to the default code.
+Fill all the holes in the floor by using the ``||hoc22.cursor move||`` block to position the cursor and ``||hoc22.place block||`` to fill in the holes.
 
 
 
@@ -26,5 +26,5 @@ Fill in all of the holes that are above the gold block on the floor. You only ne
     hoc22.placeBlock() 
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

@@ -3,13 +3,13 @@
 ### @explicitHints true
 
 
-# Greenhouse - Cracked Wall
+# Cracked Wall
 
 ## Step 1
 We need more water! It looks like I can use the cursor to break some of these damaged bricks to get more water.
 
 #### ~ tutorialhint 
-Move the cusor using the ``||hoc22.cursor move <direction>||`` block and then use ``||hoc22.break block||`` to break a block in that position. Break all 4 blocks to get enough water to get to the next puzzle. 
+Move the cursor using the ``||hoc22.cursor move <direction>||`` block and then use ``||hoc22.break block||`` to break a block in that position. Break all 4 blocks to get enough water to get to the next puzzle. 
 
 
 
@@ -30,5 +30,5 @@ Move the cusor using the ``||hoc22.cursor move <direction>||`` block and then us
     hoc22.breakBlock()
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

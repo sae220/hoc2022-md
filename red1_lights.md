@@ -3,10 +3,10 @@
 ### @explicitHints true
 
 
-# Red 1 - Lights
+# Lights
 
 ## Step 1
-The enderman butler needs some help getting to the right lights on top. Use your code to help them get to the right lights in the right order!
+There's seems to be a pattern with the way the lights are flashing. Move the enderman to each position following the pattern the lights are making.
 
 #### ~ tutorialhint 
 Use the ``||hoc22.move enderman butler||`` blocks to move the enderman butler to the correct lights. Pay attention to the pattern of the lights. Your code should match that pattern. 
@@ -24,5 +24,5 @@ Use the ``||hoc22.move enderman butler||`` blocks to move the enderman butler to
     hoc22.npcMoveYellow()
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

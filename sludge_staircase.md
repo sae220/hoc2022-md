@@ -3,13 +3,13 @@
 ### @explicitHints true
 
 
-# Sludge Room - Staircase
+# Staircase
 
 ## Step 1
-Use your cursor to build a stair case!
+Use your cursor to build a staircase to access the upper level!
 
 #### ~ tutorialhint 
-You need to build a staircase that you as a player can climb over. Make sure you are building at least one block at a time so you can jump over it. Try modifying the default code instead of starting from scratch.
+Use the ``||hoc22.move cursor <direction>||`` and ``||hoc22.place block||`` blocks to build a staircase that you as a player can climb over. Make sure you are building at least one block at a time so you can jump over it. Try modifying the default code instead of starting from scratch.
 
 
 
@@ -22,12 +22,12 @@ You need to build a staircase that you as a player can climb over. Make sure you
     for (let index = 0; index < 2; index++) {}
 ```
 ```template
-    for (let index = 0; index < 2; index++) {
     hoc22.placeBlock()
-    hoc22.cursorMoveOrientationOneUp(1)
-    hoc22.cursorMoveOrientationOneRight(2)    
-        }
+    for (let index = 0; index < 2; index++) {
+        hoc22.cursorMoveOrientationOneRight(1)   
+        hoc22.placeBlock() 
+    }
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

@@ -40,7 +40,15 @@
         "sludge_bridge.md",
         "sludge_break.md",
         "red3_light.md",
-        "red3_lazerbattery.md"
+        "red3_lazerbattery.md",
+        "laserroom_laser2.md",
+        "laserroom_laser3.md",
+        "boss_red.md",
+        "boss_yellow.md",
+        "boss_cannon_sequence.md",
+        "boss_rotation.md",
+        "no_code_pre.md",
+        "no_code.md"
     ],
     "targetVersions": {
         "target": "1.6.26",

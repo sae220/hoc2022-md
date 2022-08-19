@@ -3,7 +3,7 @@
 ### @explicitHints true
 
 
-# Laboratory - Weights
+# Weights
 
 ## Step 1
 You need the scale to reach exactly 10 weight. Maybe there is a sign around here to tell me how much each mob weighs? 
@@ -24,5 +24,5 @@ Get the total weight to 10. A chicken is 1, a sheep is 4, and a cow is 5.
       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

@@ -6,10 +6,10 @@
 # Colored Levers
 
 ## Step 1
-We'll need to flip all four levers in order to open the door, but we're not quick enough to do it manually. See if you could figure out the order they need to be flipped and a way to do it quickly.
+We'll need to flip all four levers in order to open the door, but we're not quick enough to do it manually. See if you could figure out the order they need to be flipped and program the Suite of Armor to do it for you.
 
 #### ~ tutorialhint 
-Something about those colored carpets seem weird. Use the ``||hoc22.teleport to <color> lever||`` blocks to quickly move yourself between levers.
+Use the ``||hoc22.flip <color> lever||`` blocks to move the Suit of Armor to the selected color and flip the lever. Pay close attention to how many pieces of carpet there are. That will give you a clue on the order.
 
 ```ghost
     hoc22.teleportLightBlueLever()
@@ -25,5 +25,5 @@ Something about those colored carpets seem weird. Use the ``||hoc22.teleport to 
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

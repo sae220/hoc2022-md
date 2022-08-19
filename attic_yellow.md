@@ -29,5 +29,5 @@ Look above the Agent and use the cursor to open the four trapdoors and let more 
     hoc22.cursorMoveOrientationOneLeft(2)    
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.77
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

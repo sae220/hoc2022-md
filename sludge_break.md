@@ -3,7 +3,7 @@
 ### @explicitHints true
 
 
-# Sludge Room - Block Breaker
+# Block Breaker
 
 ## Step 1
 Use the cursor to break the blocks in front of the door to escape.
@@ -28,5 +28,5 @@ Use the ``||hoc22.cursor move <direction>||`` block combined with ``||hoc22.brea
     hoc22.cursorMoveOrientationOneRight(1)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```

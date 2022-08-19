@@ -3,7 +3,7 @@
 ### @explicitHints true
 
 
-# Potion Room - Vent
+# Vent
 
 ## Step 1
 Move the clay ball to the chest so it could open up the next section.
@@ -21,5 +21,5 @@ Use the ``||hoc22.clay ball move <direction> by <number>||`` block to move the c
     hoc22.clayBallMove(SixDirection.Left, 3)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.2.79
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
 ```
