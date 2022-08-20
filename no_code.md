@@ -10,7 +10,7 @@ There aren't any coding activities active. Search the area for the next objectiv
 
 
 ```ghost
-    //
+    
 ```
 ```template
     //   

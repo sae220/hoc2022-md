@@ -10,7 +10,7 @@ There aren't any coding activities available yet. Complete the tutorial and ente
 
 
 ```ghost
-    //
+    
 ```
 ```template
     //   
