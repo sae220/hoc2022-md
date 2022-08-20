@@ -22,5 +22,5 @@ Use the ``||hoc22.slide||`` blocks to select which row you and to move, and the 
       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.10
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.11
 ```
