@@ -6,7 +6,7 @@
 # Bridge Builder
 
 ## Step 1
-Use your cursor to build a bridge that can help the crate minion reach the button! A path up will appear once the crate minion has pressed the button.
+Use your cursor to build a bridge that can help the crate minion reach the button! A staircase up will appear once the crate minion has pressed the button.
 
 #### ~ tutorialhint 
 Use the ``||hoc22.cursor move <direction>||`` block combined with ``||hoc22.place block||`` blocks to create a bridge to the button. The crate minion will walk to the button and press it once a bridge has been built for them.

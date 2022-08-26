@@ -9,7 +9,7 @@
 The silly zombie chef gave everyone the wrong meals! Search the kitchen for the menu and make sure everyone ends up with the correct meals.
 
 #### ~ tutorialhint 
-Use the ``||hoc22.swap <color> side||`` blocks two swap the dishes until everyone has their correct meals. The minimum amount of swaps required is three.
+Use the ``||hoc22.swap <color> side||`` blocks to swap the dishes until everyone has their correct meals. The minimum amount of swaps required is three.
 
 ```ghost
     hoc22.dinnerTableSwapGreen()
