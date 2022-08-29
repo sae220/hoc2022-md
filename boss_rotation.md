@@ -6,10 +6,10 @@
 # Unlock the Trap
 
 ## Step 1
-Now we have the chance to capture them! We need to align the 3 sections to open it!
+Now we have the chance to capture them! We need to align the 2 sections to open it!
 
 #### ~ tutorialhint 
-Rotate each section using the ``||hoc22.rotate <section> <direction> by <number>||`` blocks. Line up the colored paths between all 3 sections. Once that's done, we should be able to finally put a stop to those Time Agents!
+Rotate each section using the ``||hoc22.rotate <section> <direction> by <number>||`` blocks. Line up the colored paths between both sections. Once that's done, we should be able to finally put a stop to those Time Agents!
 
 ```ghost
     hoc22.outerRingClockwise(1)
