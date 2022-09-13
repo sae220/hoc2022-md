@@ -9,7 +9,7 @@
 This looks like I can make something! Maybe there is an ingredients list somewhere in this room that can help me?
 
 #### ~ tutorialhint 
-You'll need one ``||hoc22.Nether Wart||``, ``||hoc22.Phantom Membrane||``, and ``||hoc22.Fermented Spider Eye||``. Locate the order that the ingredients need to be added and then knock them into the correct hole. Use the stick to knock the ingredients into the hole.  
+You'll need one ``||hoc22.Nether Wart||``, ``||hoc22.Phantom Membrane||``, and ``||hoc22.Fermented Spider Eye||``. Locate the order that the ingredients need to be added and then knock them into the correct hole. Use the wooden sword to knock the ingredients into the hole.  
 
 
 
