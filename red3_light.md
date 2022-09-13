@@ -22,12 +22,11 @@ Use the ``||hoc22.cursor move <direction>||`` block to select a light and then `
     for (let index = 0; index < 2; index++) {    }
 ```
 ```template  
-    for (let index = 0; index < 3; index++) {
-        hoc22.cursorMoveOrientationOneRight(1)   
-        hoc22.toggleLight()    
-    }
-     
+    hoc22.cursorMoveOrientationOneRight(2)   
+    hoc22.toggleLight() 
+    hoc22.cursorMoveOrientationOneRight(2)   
+    hoc22.toggleLight()        
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

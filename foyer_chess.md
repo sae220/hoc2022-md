@@ -24,5 +24,5 @@ The chessboard represents a grid of dates. Search the room to figure out what da
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

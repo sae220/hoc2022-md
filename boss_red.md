@@ -16,14 +16,18 @@ Use the ``||hoc22.cursor move <direction>||`` block to move the cursor into posi
     hoc22.cursorMoveOrientationOneDown(1)
     hoc22.cursorMoveOrientationOneLeft(1)
     hoc22.cursorMoveOrientationOneRight(1)
-    hoc22.placeBlock()
+    hoc22.placeMagentaBlock()
+    hoc22.placeLimeBlock()
+    hoc22.placeYellowBlock()
+    hoc22.placeLightBlueBlock()
+
 ```
 ```template
-    hoc22.placeBlock()        
+    hoc22.placeLimeBlock()        
     hoc22.cursorMoveOrientationOneRight(2)
-    hoc22.placeBlock()
+    hoc22.placeLightBlueBlock()
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

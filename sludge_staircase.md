@@ -23,11 +23,9 @@ Use the ``||hoc22.move cursor <direction>||`` and ``||hoc22.place block||`` bloc
 ```
 ```template
     hoc22.placeBlock()
-    for (let index = 0; index < 2; index++) {
-        hoc22.cursorMoveOrientationOneRight(1)   
-        hoc22.placeBlock() 
-    }
+    hoc22.cursorMoveOrientationOneRight(2)   
+    hoc22.placeBlock() 
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

@@ -24,16 +24,14 @@ Move the cursor using the ``||hoc22.cursor move <direction>||`` block and then u
     for (let index = 0; index < 2; index++) {    }
 ```
 ```template
-    for (let index = 0; index < 5; index++) {
-        hoc22.flowerPlantingBlueFlower() 
-        hoc22.cursorMoveOrientationOneRight(1)    
-        } 
+    hoc22.flowerPlantingBlueFlower() 
+    hoc22.cursorMoveOrientationOneRight(3)    
     hoc22.cursorMoveOrientationOneDown(1) 
-    for (let index = 0; index < 4; index++) {
-        hoc22.flowerPlantingYellowFlower()  
-        hoc22.cursorMoveOrientationOneLeft(1)  
-        }         
+    hoc22.flowerPlantingYellowFlower()  
+    hoc22.cursorMoveOrientationOneLeft(1)   
+    hoc22.cursorMoveOrientationOneDown(1) 
+    hoc22.flowerPlantingRedFlower()    
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

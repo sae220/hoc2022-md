@@ -22,16 +22,14 @@ Move the cusor using the ``||hoc22.cursor move <direction>||`` block and then us
     for (let index = 0; index < 2; index++) {    }
 ```
 ```template
-    for (let index = 0; index < 2; index++) {
-        hoc22.cursorMoveOrientationOneUp(1) 
-        hoc22.placeBlock()    
-        }
+    hoc22.cursorMoveOrientationOneUp(1) 
+    hoc22.placeBlock()   
+    hoc22.cursorMoveOrientationOneUp(1) 
+    hoc22.placeBlock()        
     hoc22.cursorMoveOrientationOneRight(2)   
-    for (let index = 0; index < 2; index++) {
-        hoc22.cursorMoveOrientationOneUp(1) 
-        hoc22.placeBlock()    
-        }      
+    hoc22.cursorMoveOrientationOneUp(1) 
+    hoc22.placeBlock()       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

@@ -19,10 +19,9 @@ Pay attention to how many zombie chefs go by with each ingredient. Use the ``||h
 ```
 ```template
     hoc22.feedHouseApple(2)
-    hoc22.feedHouseSalmon(3)
-    hoc22.feedHouseMushroomStew(2)
+    hoc22.feedHouseSalmon(1)
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

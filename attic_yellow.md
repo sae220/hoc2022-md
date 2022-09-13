@@ -23,11 +23,9 @@ Look above the Agent and use the ``||hoc22.cursor move||`` block to position the
 ```template
     hoc22.openTrapdoor()
     hoc22.cursorMoveOrientationOneRight(2)
-    hoc22.openTrapdoor()
-    hoc22.cursorMoveOrientationOneUp(2)
-    hoc22.openTrapdoor()
-    hoc22.cursorMoveOrientationOneLeft(2)    
+    hoc22.cursorMoveOrientationOneUp(1)
+    
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

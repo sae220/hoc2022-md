@@ -22,11 +22,9 @@ Use the ``||hoc22.cursor move <direction>||`` block combined with ``||hoc22.brea
     for (let index = 0; index < 2; index++) {    }
 ```
 ```template  
-    hoc22.breakBlock()
     hoc22.cursorMoveOrientationOneRight(1)   
-    hoc22.breakBlock()
     hoc22.cursorMoveOrientationOneRight(1)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

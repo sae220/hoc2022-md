@@ -25,5 +25,5 @@ Use the ``||hoc22.cursor move||`` blocks to position the cursor in front of the 
     hoc22.placeBlock()
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

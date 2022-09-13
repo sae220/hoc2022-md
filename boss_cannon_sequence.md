@@ -20,11 +20,9 @@ Pay close attention to the colored rings around the Time Orb. Use the ``||hoc22.
 ```template       
     hoc22.lightBlueCannon()
     hoc22.yellowCannon()
-    hoc22.limeCannon()
     hoc22.magentaCannon()
-
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

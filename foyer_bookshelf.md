@@ -21,17 +21,13 @@ Move the cursor along the bookcase to select a position using the ``||hoc22.curs
 
 ```
 ```template
-    for (let index = 0; index < 6; index++) {
-            hoc22.placeBlock()
-            hoc22.cursorMoveOrientationOneRight(1)
-        }
     hoc22.placeBlock()        
-    hoc22.cursorMoveOrientationOneUp(1)
+    hoc22.cursorMoveOrientationOneRight(3)
     hoc22.placeBlock()
-    hoc22.cursorMoveOrientationOneUp(1)
+    hoc22.cursorMoveOrientationOneRight(3)
     hoc22.placeBlock()
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

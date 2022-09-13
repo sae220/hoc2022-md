@@ -25,5 +25,5 @@ Teleport the enderman to the diamond block by using the ``||hoc22.teleport ender
     hoc22.pullLeverDown()  
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```

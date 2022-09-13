@@ -25,10 +25,10 @@ Move the cursor using the ``||hoc22.cursor move <direction>||`` block and then u
     hoc22.breakBlock()
     hoc22.cursorMoveOrientationOneRight(4) 
     hoc22.breakBlock() 
-    hoc22.cursorMoveOrientationOneDown(2)
+    hoc22.cursorMoveOrientationOneDown(4)
     hoc22.cursorMoveOrientationOneLeft(1)
     hoc22.breakBlock()
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
 ```
