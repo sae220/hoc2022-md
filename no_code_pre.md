@@ -10,12 +10,8 @@ There aren't any coding activities available yet. Complete the tutorial and ente
 
 
 ```ghost
-    
+null
 ```
 ```template
-player.onChat("run", function () {
-})
-```
-```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
+{}
 ```
