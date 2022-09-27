@@ -9,7 +9,7 @@
 The Agent had just enough power to open the Green door. If you can figure out how to let more light in from above it, that will charge the Agent up even more.
 
 #### ~ tutorialhint 
-Look above the Agent and use the ``||hoc22.cursor move||`` block to position the cursor over each trap door and then use ``||hoc22.open trapdoor||`` to open them. Use the colored arrows to help you choose which direction the cursor should move.
+Look above the Agent and use the ``||hoc22.cursor move||`` block to position the cursor over each trapdoor and then use ``||hoc22.open trapdoor||`` to open them. Use the colored arrows to help you choose which direction the cursor should move.
 
 
 

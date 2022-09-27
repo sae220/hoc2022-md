@@ -6,7 +6,7 @@
 # Attic Tutorial
 
 ## Step 1
-The box with the orange arrow on the floor is your cursor. You'll use it throughout the house to minipulate blocks. In this activity we'll use it to open the trap door and release the Agent. (Interact with the lightbulb for more help)
+The box with the orange arrow on the floor is your cursor. You'll use it throughout the house to minipulate blocks. In this activity we'll use it to open the trapdoor and release the Agent. (Interact with the lightbulb for more help)
 
 #### ~ tutorialhint 
 Move the cursor three blocks forward using the ``||hoc22.cursor move||`` block and then use the ``||hoc22.open trapdoor||`` block to release the Agent.
