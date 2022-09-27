@@ -12,7 +12,6 @@ The box with the orange arrow on the floor is your cursor. You'll use it through
 Move the cursor three blocks forward using the ``||hoc22.cursor move||`` block and then use the ``||hoc22.open trapdoor||`` block to release the Agent.
 
 
-
 ```ghost
     hoc22.cursorMoveOrientationOneUp(3)
     hoc22.openTrapdoor()
