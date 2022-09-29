@@ -16,7 +16,7 @@ Use ``||hoc22.clay ball move <direction> by <number>||`` to move the clay ball o
 ```
 ```template
     hoc22.clayBallMove(UP, 3)
-    hoc22.clayBallMove(RIGHT, 2)
+    hoc22.clayBallMove(LEFT, 2)
     hoc22.clayBallMove(DOWN, 3)
 ```
 
