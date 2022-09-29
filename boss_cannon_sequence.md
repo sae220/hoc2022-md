@@ -19,8 +19,8 @@ Pay close attention to the colored rings around the Time Orb. Use the ``||hoc22.
 ```
 ```template       
     hoc22.lightBlueCannon()
+    hoc22.limeCannon()
     hoc22.yellowCannon()
-    hoc22.magentaCannon()
 ```
 
 ```package
