@@ -14,13 +14,14 @@ Use the ``||hoc22.shift||`` blocks to select which row you want to move, and the
 
 
 ```ghost
-    hoc22.slideGreenRow(TwoDirection.Left,1)
+    hoc22.GreenLeftLaser(1)
+    hoc22.GreenRightLaser(1)
 
 ```
 ```template
-    hoc22.slideGreenRow(TwoDirection.Left,1)
+    hoc22.GreenLeftLaser(1)
       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.36
 ```
