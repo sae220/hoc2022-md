@@ -6,10 +6,10 @@
 # Colored Levers
 
 ## Step 1
-We'll need to flip all four levers in order to open the door, but we're not quick enough to do it manually. See if you could figure out the order they need to be flipped and program the Suit of Armor to do it for you.
+All four levers must flipped in the correct order, very quickly, to open the door. Code the Speedy Knight to rapidly pull the levers for you.
 
 #### ~ tutorialhint 
-Use the ``||hoc22.flip <color> lever||`` blocks to move the Suit of Armor to the selected color and flip the lever. Pay close attention to how many pieces of carpet there are. That will give you a clue on the order.
+Use the ``||hoc22.flip <color> lever||`` blocks to move the Speedy Knight to the selected color and flip the lever. Pay close attention to how many pieces of carpet there are. That will give you a clue on the order.
 
 ```ghost
     hoc22.teleportLightBlueLever()
@@ -25,5 +25,5 @@ Use the ``||hoc22.flip <color> lever||`` blocks to move the Suit of Armor to the
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
 ```

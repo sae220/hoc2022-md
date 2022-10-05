@@ -6,10 +6,10 @@
 # Vent
 
 ## Step 1
-Move the clay ball to the chest so it could open up the next section.
+Move the clay ball through the vent in order to reach the next section.
 
 #### ~ tutorialhint 
-Use the ``||hoc22.clay ball move <direction> by <number>||`` block to move the clay ball to the chest.
+Use the ``||hoc22.clay ball move <direction> by <number>||`` block to move the clay ball through the vent.
 
 
 
@@ -17,9 +17,9 @@ Use the ``||hoc22.clay ball move <direction> by <number>||`` block to move the c
     hoc22.clayBallMove(SixDirection.Up, 1)
 ```
 ```template
-    hoc22.clayBallMove(SixDirection.Forward, 2)  
-    hoc22.clayBallMove(SixDirection.Left, 3)     
+    hoc22.clayBallMove(SixDirection.Right, 2)  
+    hoc22.clayBallMove(SixDirection.Left, 2)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
 ```

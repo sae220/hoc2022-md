@@ -6,10 +6,10 @@
 # Drawbridge
 
 ## Step 1
-The enderman butler needs help getting across the river. Teleport them across the river to the diamond block, then move them into position to pull the lever.
+The Enderman butler needs help getting across the river. Teleport the butler across the river to the Diamond block. Then move the butler into position to pull the lever.
 
 #### ~ tutorialhint 
-Teleport the enderman to the diamond block by using the ``||hoc22.teleport enderman||`` block. Then use the ``||hoc22.move enderman||`` block to position them and ``||hoc22.pull lever down||`` to flip the lever.
+Teleport the Enderman butler to the Diamond block by using the ``||hoc22.teleport enderman||`` block. Then use the ``||hoc22.move enderman||`` block to position them and ``||hoc22.pull lever down||`` to flip the lever. The Enderman will automatically turn to face the lever when you use the ``||hoc22.pull lever down||`` block.
 
 
 
@@ -25,5 +25,5 @@ Teleport the enderman to the diamond block by using the ``||hoc22.teleport ender
     hoc22.pullLeverDown()  
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
 ```

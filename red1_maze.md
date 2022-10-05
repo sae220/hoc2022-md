@@ -6,10 +6,10 @@
 # Maze
 
 ## Step 1
-The enderman butler needs your help getting through the maze to the emerald blocks on the other side. The lights on the wall seem to be associated with the doors in some way. Opening one seems to close the other. 
+The Enderman butler needs your help getting through the maze to the Emerald blocks on the other side. The lights on the wall seem to be associated with the doors in some way. Opening one seems to close the other. 
 
 #### ~ tutorialhint 
-Create a path to the emerald blocks by using the levers. Be careful, opening one door will close the other. Then use the ``||hoc22.move enderman||`` blocks to get them through the maze to the emerald blocks. 
+Create a path to the Emerald blocks by using the levers. Be careful! Opening one door will close the other. Then, use the ``||hoc22.move enderman||`` blocks to get them through the maze to the emerald blocks.
 
 
 
@@ -24,5 +24,5 @@ Create a path to the emerald blocks by using the levers. Be careful, opening one
     hoc22.npcMoveRight(3) 
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
 ```

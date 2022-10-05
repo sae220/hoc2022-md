@@ -29,5 +29,5 @@ Move the cursor along the bookcase to select a position using the ``||hoc22.curs
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
 ```

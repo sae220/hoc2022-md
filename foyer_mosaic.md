@@ -6,7 +6,7 @@
 # Picture Slide
 
 ## Step 1
-It seems like the picture got scrambled! Let's see if we could push the blocks around to put the picture back in order.
+It seems like the picture got scrambled! Let's see if we can push the blocks around to put the picture back in order.
 
 #### ~ tutorialhint 
 Use the ``||hoc22.push <color> <direction>||`` blocks to trigger the pistons in order to move the blocks in the selected direction. It takes a minimum of three moves to put the picture back in order.
@@ -24,5 +24,5 @@ Use the ``||hoc22.push <color> <direction>||`` blocks to trigger the pistons in 
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
 ```

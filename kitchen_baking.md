@@ -6,7 +6,7 @@
 # Bake Bread
 
 ## Step 1
-The zombie chef needs help making bread. Use the included blocks to create a recipe the zombie chef can follow.
+The Zombie Chef needs help making bread. Use the included blocks to create a recipe the Zombie Chef can follow.
 
 #### ~ tutorialhint 
 Think about the order of operations it takes to make bread. You'd first ``||hoc22.harvest wheat||``, but then what? There are exactly four steps.
@@ -25,5 +25,5 @@ Think about the order of operations it takes to make bread. You'd first ``||hoc2
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
 ```

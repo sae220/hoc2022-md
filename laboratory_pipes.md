@@ -9,7 +9,7 @@
 You'll need to add a specific amount of blocks to each of the hoppers. Maybe there is something in the room that can tell you how many?
 
 #### ~ tutorialhint 
-Count how many blocks are on the landing behind the puzzle and add that many blocks to the hoppers. Your default code should be the correct amount for the first 3 hoppers. 
+Count how many blocks are on the landing behind the puzzle. Use the ``||hoc.drop <number> <color>||`` block to add that many blocks to the hoppers.
 
 
 
@@ -21,10 +21,12 @@ Count how many blocks are on the landing behind the puzzle and add that many blo
 ```
 ```template
     hoc22.summonColoredBlockYellow(1)
+    hoc22.summonColoredBlockYellow(1)
+    hoc22.summonColoredBlockYellow(1)
     hoc22.summonColoredBlockLightBlue(1) 
     hoc22.summonColoredBlockMagenta(1)
       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.12
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
 ```
