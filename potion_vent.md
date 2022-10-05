@@ -14,12 +14,12 @@ Use the ``||hoc22.clay ball move <direction> by <number>||`` block to move the c
 
 
 ```ghost
-    hoc22.clayBallMove(SixDirection.Up, 1)
+    hoc22.clayBallMove(FourDirectionUpDown.Up, 1)
 ```
 ```template
-    hoc22.clayBallMove(SixDirection.Right, 2)  
-    hoc22.clayBallMove(SixDirection.Left, 2)     
+    hoc22.clayBallMove(FourDirectionUpDown.Right, 2)  
+    hoc22.clayBallMove(FourDirectionUpDown.Left, 2)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.40
 ```
