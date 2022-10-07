@@ -27,5 +27,5 @@ Fill all the holes in the floor by using the ``||hoc22.cursor move||`` block to 
     hoc22.cursorMoveOrientationOneRight(5)
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
 ```

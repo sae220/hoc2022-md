@@ -24,5 +24,5 @@ Use the ``||hoc22.move enderman butler||`` blocks to move the Enderman butler to
     hoc22.npcMoveYellow()
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
 ```

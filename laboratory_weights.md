@@ -25,5 +25,5 @@ Use the `||hoc22.summon <mob>||` blocks to spawn in mobs to get a total weight o
       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.38
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
 ```

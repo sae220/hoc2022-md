@@ -21,5 +21,5 @@ Use ``||hoc22.clay ball move <direction> by <number>||`` to move the clay ball o
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.40
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
 ```
