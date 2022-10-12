@@ -8,6 +8,8 @@
 ## Step 1
 Each cannon has its own beam color. Activate the cannons in the same order as the colored rings surrounding the Time Orb.
 
+The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+
 #### ~ tutorialhint 
 Pay close attention to the colored rings around the Time Orb. Use the ``||hoc22.activate <color> cannon||`` blocks to match the order of rings around the Time Orb. Start from the outer most ring and work your way in.
 
@@ -26,5 +28,5 @@ Pay close attention to the colored rings around the Time Orb. Use the ``||hoc22.
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
 ```

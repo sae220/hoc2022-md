@@ -8,6 +8,8 @@
 ## Step 1
 There's seems to be a pattern with the way the lights are flashing. Move the Enderman to each position matching the pattern the lights are making.
 
+The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+
 #### ~ tutorialhint 
 Use the ``||hoc22.move enderman butler||`` blocks to move the Enderman butler to the correct lights. Pay attention to the pattern of the lights. Your code should match that pattern. 
 
@@ -24,5 +26,5 @@ Use the ``||hoc22.move enderman butler||`` blocks to move the Enderman butler to
     hoc22.npcMoveYellow()
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
 ```

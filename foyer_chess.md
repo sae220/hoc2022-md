@@ -8,6 +8,8 @@
 ## Step 1
 We've freed the King and Queen, but the door still isn't opening. The pieces must be in the wrong positions. Move them into the correct positions, so you can finally escape this place!
 
+The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+
 #### ~ tutorialhint 
 The chessboard represents a grid of dates. Search the room to figure out what dates the king and queen should be on and then use the ``||hoc22.move king <direction>||`` and ``||hoc22.move queen <direction>||`` blocks to move them into their correct positions.
 
@@ -24,5 +26,5 @@ The chessboard represents a grid of dates. Search the room to figure out what da
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
 ```

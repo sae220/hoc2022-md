@@ -8,6 +8,8 @@
 ## Step 1
 To open the Red door, the Agent will need some help. Move the Agent onto the Gold blocks in front of the Red door and then flip the lever down.
 
+The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+
 #### ~ tutorialhint 
 Move the Agent forward 14 blocks using the ``||hoc22.agent move <direction> by <number>||`` block and then flip the lever down.
 
@@ -20,5 +22,5 @@ Move the Agent forward 14 blocks using the ``||hoc22.agent move <direction> by <
     hoc22.agentMove(SixDirection.Forward, 10)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
 ```

@@ -6,7 +6,9 @@
 # Unlock the Trap
 
 ## Step 1
-Now we have the chance to capture Time Agents! We need to align all 3 colored discs to reverse the polarity.
+Now we have the chance to capture the Time Agents! We need to align all 3 colored discs to reverse the polarity.
+
+The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 
 #### ~ tutorialhint 
 Rotate each section using the ``||hoc22.rotate <section> <direction> by <number>||`` blocks. Line up the colored paths between both sections. Once that's done, we should be able to finally put a stop to those Time Agents!
@@ -26,5 +28,5 @@ Rotate each section using the ``||hoc22.rotate <section> <direction> by <number>
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
 ```

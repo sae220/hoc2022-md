@@ -8,6 +8,8 @@
 ## Step 1
 Deliver each mob to their correct destination. Look at the mobs lined up and update the code to make sure they arrive in the order they are waiting.
 
+The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+
 #### ~ tutorialhint 
 Use the ``||hoc22.sort||`` blocks to send the mobs to the correct passageways. They will be released from right to left, so make sure you order them correctly in your code.
 
@@ -26,5 +28,5 @@ Use the ``||hoc22.sort||`` blocks to send the mobs to the correct passageways. T
     hoc22.minecraftSortingSkeleton(1)
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
 ```

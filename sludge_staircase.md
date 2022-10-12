@@ -8,6 +8,8 @@
 ## Step 1
 Use your cursor to build a staircase to access the upper level!
 
+The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+
 #### ~ tutorialhint 
 Use the ``||hoc22.move cursor <direction>||`` and ``||hoc22.place block||`` blocks to build a staircase that you as a player can climb over. Make sure you are building at least one block at a time so you can jump over it. Try modifying the default code instead of starting from scratch.
 
@@ -27,5 +29,5 @@ Use the ``||hoc22.move cursor <direction>||`` and ``||hoc22.place block||`` bloc
     hoc22.placeBlock() 
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
 ```

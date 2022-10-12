@@ -8,6 +8,8 @@
 ## Step 1
 Move the clay ball through the vent in order to reach the next section.
 
+The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+
 #### ~ tutorialhint 
 Use the ``||hoc22.clay ball move <direction> by <number>||`` block to move the clay ball through the vent.
 
@@ -21,5 +23,5 @@ Use the ``||hoc22.clay ball move <direction> by <number>||`` block to move the c
     hoc22.clayBallMove(FourDirectionUpDown.Left, 2)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
 ```

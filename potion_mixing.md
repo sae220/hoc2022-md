@@ -8,6 +8,8 @@
 ## Step 1
 This looks like I can make something! Maybe there is an ingredients list somewhere in this room that can help me?
 
+The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+
 #### ~ tutorialhint 
 You'll need one ``||hoc22.Nether Wart||``, ``||hoc22.Phantom Membrane||``, and ``||hoc22.Fermented Spider Eye||``. Locate the order that the ingredients need to be added and code them to be dropped in that order.
 
@@ -23,5 +25,5 @@ You'll need one ``||hoc22.Nether Wart||``, ``||hoc22.Phantom Membrane||``, and `
     hoc22.mixingPuzzlePhantomMembrane()    
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
 ```

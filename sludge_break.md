@@ -8,6 +8,8 @@
 ## Step 1
 Use the cursor to break the blocks in front of the door to escape.
 
+The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+
 #### ~ tutorialhint 
 Use the ``||hoc22.cursor move <direction>||`` block combined with ``||hoc22.break block||`` to break through enough blocks. You don't have to break all of them, just enough to get to the door.
 
@@ -26,5 +28,5 @@ Use the ``||hoc22.cursor move <direction>||`` block combined with ``||hoc22.brea
     hoc22.cursorMoveOrientationOneRight(1)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
 ```

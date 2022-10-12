@@ -8,6 +8,8 @@
 ## Step 1
 Fill in all the holes in the floor with the cursor to open the red curtain.
 
+The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+
 #### ~ tutorialhint 
 Fill all the holes in the floor by using the ``||hoc22.cursor move||`` block to position the cursor and ``||hoc22.place block||`` to fill in the holes.
 
@@ -27,5 +29,5 @@ Fill all the holes in the floor by using the ``||hoc22.cursor move||`` block to 
     hoc22.cursorMoveOrientationOneRight(5)
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.41
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
 ```
