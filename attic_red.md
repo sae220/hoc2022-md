@@ -6,12 +6,12 @@
 # Attic Tutorial
 
 ## Step 1
-To open the Red door, the Agent will need some help. Move the Agent onto the Gold blocks in front of the Red door and then flip the lever down.
+To open the Red door, both you and the Agent will have to work together. Flip the lever to bring up the iron wall, then move the Agent so it is positioned above the Gold blocks in front of the Red door.
 
 The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 
 #### ~ tutorialhint 
-Move the Agent forward 14 blocks using the ``||hoc22.agent move <direction> by <number>||`` block and then flip the lever down.
+Flip the lever down to bring up the iron wall, then move the Agent 14 blocks forward using ``||hoc22.agent move <direction> by <number>||``
 
 
 
