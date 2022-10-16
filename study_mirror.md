@@ -24,14 +24,14 @@ Move the cursor above the fireplace using ``||hoc22.cursor move <direction>||`` 
 ```
 ```template
     hoc22.cursorMoveOrientationOneLeft(1)
-    hoc22.placeBlock()
+    hoc22.placePumpkin()
     hoc22.cursorMoveOrientationOneLeft(1)
-    hoc22.placeBlock()
+    hoc22.placePumpkin()
     hoc22.cursorMoveOrientationOneLeft(1)
-    hoc22.placeBlock()
+    hoc22.placePumpkin()
     hoc22.cursorMoveOrientationOneLeft(1)
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.44
 ```
