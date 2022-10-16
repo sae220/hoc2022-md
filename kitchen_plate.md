@@ -21,7 +21,7 @@ Use the ``||hoc22.swap <color> side||`` blocks to swap the dishes until everyone
 ```
 ```template
     hoc22.dinnerTableSwapBlue()
-    hoc22.dinnerTableSwapYellow()
+    hoc22.dinnerTableSwapRed()
 ```
 
 ```package
