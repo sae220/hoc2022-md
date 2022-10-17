@@ -29,5 +29,5 @@ Use the ``||hoc22.cursor move <direction>||`` block combined with ``||hoc22.plac
     hoc22.placeBlock() 
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.4.0
 ```

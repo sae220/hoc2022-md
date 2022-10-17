@@ -27,5 +27,5 @@ Think about the order of operations it takes to make bread. You'd first ``||hoc2
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.4.0
 ```

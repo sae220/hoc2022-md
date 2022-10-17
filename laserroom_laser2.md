@@ -27,5 +27,5 @@ Use the ``||hoc22.shift||`` blocks to select which row you want to move, and the
       
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.3.43
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.4.0
 ```
