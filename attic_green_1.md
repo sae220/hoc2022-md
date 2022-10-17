@@ -6,7 +6,7 @@
 # Attic Tutorial
 
 ## Step 1
-The box with the orange arrow on the floor is your cursor. You'll use cursors throughout the house to manipulate blocks. In this activity, we'll use the cursor to open the trapdoor and release the Agent. (Interact with the lightbulb for more help.)
+The box with the orange arrow on the floor is your cursor. You'll use cursors throughout the house to change blocks. In this activity, we'll use the cursor to open the trapdoor and release the Agent. (Interact with the lightbulb for more help.)
 
 The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 

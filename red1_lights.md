@@ -6,7 +6,7 @@
 # Lights
 
 ## Step 1
-There's seems to be a pattern with the way the lights are flashing. Move the Enderman to each position matching the pattern the lights are making.
+There's seems to be a pattern with the way the lights are flashing. Move the Enderman to each spot matching the pattern the lights are making.
 
 The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 

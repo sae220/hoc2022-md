@@ -6,7 +6,7 @@
 # Chess Pieces
 
 ## Step 1
-We've freed the King and Queen, but the door still isn't opening. The pieces must be in the wrong positions. Move them into the correct positions, so you can finally escape this place!
+We've freed the King and Queen, but the door still isn't opening. The pieces must be in the wrong places. Move them into the correct places, so you can finally escape this place!
 
 The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 

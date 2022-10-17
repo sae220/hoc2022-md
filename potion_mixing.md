@@ -6,7 +6,7 @@
 # Potion Mixing
 
 ## Step 1
-This looks like I can make something! Maybe there is an ingredients list somewhere in this room that can help me?
+This looks like I can make something! Maybe there is an item list somewhere in this room that can help me?
 
 The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 

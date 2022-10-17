@@ -6,7 +6,7 @@
 # Unlock the Trap
 
 ## Step 1
-Now we have the chance to capture the Time Agents! We need to align all 3 colored discs to reverse the polarity.
+Now we have the chance to capture the Time Agents! We need to align all 3 colored discs to trap the Time Agents.
 
 The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 

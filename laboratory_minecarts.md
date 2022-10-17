@@ -6,7 +6,7 @@
 # Minecart Redirection
 
 ## Step 1
-Deliver each mob to their correct destination. Look at the mobs lined up and update the code to make sure they arrive in the order they are waiting.
+Deliver each mob to their correct place. Look at the mobs lined up and change the code to make sure they arrive in the order they are waiting.
 
 The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 

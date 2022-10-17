@@ -6,7 +6,7 @@
 # Bake Bread
 
 ## Step 1
-The Zombie Chef needs help making bread. Use the included blocks to create a recipe the Zombie Chef can follow.
+The Zombie Chef needs help making bread. Use the code blocks to create a recipe the Zombie Chef can follow.
 
 The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 

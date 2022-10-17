@@ -6,7 +6,7 @@
 # Drawbridge
 
 ## Step 1
-The Enderman butler needs help getting across the river. Teleport the butler across the river to the Diamond block. Then move the butler into position to pull the lever.
+The Enderman butler needs help getting across the river. Teleport the butler across the river to the Diamond block. Then move the butler to the lever and pull it down.
 
 The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 

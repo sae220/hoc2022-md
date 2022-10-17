@@ -6,7 +6,7 @@
 # Maze
 
 ## Step 1
-The Enderman butler needs your help getting through the maze to the Emerald blocks on the other side. The lights on the wall seem to be associated with the doors in some way. Opening one seems to close the other. 
+The Enderman butler needs your help getting through the maze to the Emerald blocks on the other side. The levers on the wall seem to match the doors colors. When flipping the lever, one door opens and another closes. 
 
 The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 

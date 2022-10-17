@@ -6,12 +6,12 @@
 # Wrong Reflection
 
 ## Step 1
-Things in the mirror appear differently than in the room. Find all the differences and modify the room to make them match.
+The pumpkins above the fireplace in the mirror is somehow different than the ones in this room. Try making them match.
 
 The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
 
 #### ~ tutorialhint 
-Move the cursor above the fireplace using ``||hoc22.cursor move <direction>||`` to select a position and ``||hoc22.place block||`` to place a block in that position.
+Move the cursor above the fireplace using ``||hoc22.cursor move <direction>||`` to select a position and ``||hoc22.place pumpkin||`` to place a pumpkin in that position.
 
 ```ghost
     hoc22.cursorMoveOrientationOneUp(1)
