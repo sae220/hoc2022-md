@@ -26,5 +26,5 @@ Create a path to the Emerald blocks by using the levers. Be careful! Opening one
     hoc22.npcMoveRight(3) 
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.4.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts
 ```

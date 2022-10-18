@@ -27,5 +27,5 @@ Use the ``||hoc22.flip <color> lever||`` blocks to move the Speedy Knight to the
 ```
 
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.4.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts
 ```

@@ -25,5 +25,5 @@ Move the golem forward by using the ``||hoc22.move golem forward by <number>||``
     hoc22.clayGolemMoveForward(2)    
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts#v0.4.0
+minecraft-hoc22=github:ReWrite-Media/hoc22-ts
 ```
