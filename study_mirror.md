@@ -18,7 +18,7 @@ Move the cursor above the fireplace using ``||hoc22.cursor move <direction>||`` 
     hoc22.cursorMoveOrientationOneDown(1)
     hoc22.cursorMoveOrientationOneLeft(1)
     hoc22.cursorMoveOrientationOneRight(1)
-    hoc22.placeBlock()
+    hoc22.placePumpkin()
     for (let index = 0; index < 2; index++) {}
 
 ```
