@@ -20,5 +20,5 @@ Use ``||hoc22.summonWeight <mob>||``
     hoc22.summonWeightSheep(1)
 ```
 ```package
-minecraft-hoc22=github:sae220/hoc22-ts#v0.2.68
+minecraft-hoc22=github:sae220/hoc22-ts
 ```
