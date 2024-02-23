@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Attic Tutorial
+# 屋根裏のチュートリアル
 
-## Step 1
-The box with the orange arrow on the floor is your cursor. You'll use cursors throughout the house to change blocks. In this activity, we'll use the cursor to open the trapdoor and release the Agent. (Interact with the lightbulb for more help.)
+## ステップ 1
+床にあるオレンジの矢印の箱がカーソルです。カーソルは、家のあちこちでブロックを変えるのに使います。このアクティビティでは、カーソルを使ってトラップドアを開け、エージェントを解放します。(ヒントが欲しい場合は、電球ボタンを押してください)。
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint 
-Move the cursor three blocks forward using the ``||hoc22.cursor move||`` block and then use the ``||hoc22.open trapdoor||`` block to release the Agent.
+``||hoc22.カーソルを動かす||``ブロックを使いカーソルを前に3ブロック動かし、 その後``||hoc22.open trapdoor||``ブロックを使いエージェントを解放してください。
 
 
 ```ghost
