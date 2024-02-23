@@ -29,5 +29,5 @@ Look above the Agent and use the ``||hoc22.cursor move||`` block to position the
     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts
+minecraft-hoc22=github:sae220/hoc22-ts
 ```

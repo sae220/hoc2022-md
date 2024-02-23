@@ -22,5 +22,5 @@ Flip the lever down to bring up the iron wall, then move the Agent 14 blocks for
     hoc22.agentMove(SixDirection.Forward, 10)     
 ```
 ```package
-minecraft-hoc22=github:ReWrite-Media/hoc22-ts
+minecraft-hoc22=github:sae220/hoc22-ts
 ```
