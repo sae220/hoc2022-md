@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Picture Slide
+# スライドパズル
 
-## Step 1
-It seems like the picture got scrambled! Let's see if we can push the blocks around to put the picture back in order.
+## ステップ 1
+絵がめちゃくちゃになってしまったみたいだ！ブロックを押して絵を元に戻せるかやってみよう。
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint 
-Use the ``||hoc22.push <color> <direction>||`` blocks to trigger the pistons in order to move the blocks in the selected direction. It takes a minimum of three moves to put the picture back in order.
+``||hoc22.押す||``ブロックを使いピストンを動かし選んだ方向にブロックを移動させます。絵を元に戻すには最低3回動かす必要があります。
 
 ```ghost
     hoc22.mosaicPushUp()

@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Bookcase Staircase
+# 本棚前の階段
 
-## Step 1
-There seems to be something at the top of the bookcase. See if you can create a way to get up there.
+## ステップ 1
+本棚の上に何かあるようだ。上に行く道を作ってみよう。
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint 
-Move the cursor along the bookcase to select a position using the ``||hoc22.cursor move <direction>||`` block and then use ``||hoc22.place block||`` to place a block in that position. Create a staircase to get to the top.
+``||hoc22.カーソルを移動させる||``ブロックを使い本棚に沿ってカーソルを移動させ、その後``||hoc22.ブロックを置く||``ブロックを使いその位置にブロックを置いてください。上に行くための階段を作ってください。
 
 ```ghost
     hoc22.cursorMoveOrientationOneUp(1)

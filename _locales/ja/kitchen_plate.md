@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Plate Swap
+# 皿を入れ替える
 
-## Step 1
-It seems the Zombie Chef gave everyone the wrong meal! Search the kitchen for the menu and make sure everyone ends up with the correct meal. You only need to add one block to the end of the debug code.
+## ステップ 1
+ゾンビシェフが全員に間違った料理を渡してしまったようだ！キッチンで誰がどの料理を注文したのか調べ、全員に正しい料理を食べさせよう。今のコードの最後にブロックを1つ追加するだけで良いです。
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint 
-Use the ``||hoc22.swap <color> side||`` blocks to swap the dishes until everyone has their correct meals. The minimum amount of swaps required is three.
+``||hoc22.両端を入れ替える||``ブロックを使い全員が正しい料理を食べられるように皿を入れ替えてください。最低3回入れ替える必要があります。
 
 ```ghost
     hoc22.dinnerTableSwapGreen()

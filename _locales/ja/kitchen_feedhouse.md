@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Feed the House
+# 家に食べ物を食べさせる
 
-## Step 1
-The house is hungry! And what better to feed it than apples, salmon, and mushroom stew! See if you could figure out how many of each item the house requires. 
+## ステップ 1
+家がお腹を空かせている！リンゴ、生鮭、キノコシチューを食べさせよう！家がそれぞれいくつずつ食べたいか考えよう。
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint 
-Pay attention to how many Zombie Chefs go by with each ingredient. Use the ``||hoc22.feed house <ingredient>||`` blocks to feed the house the required amount.
+何人のゾンビシェフがそれぞれの食べ物を持って通るかみてください。``||hoc22.家に食べさせる||``ブロックを使い必要な個数を食べさせてください。
 
 ```ghost
     hoc22.feedHouseApple(1)

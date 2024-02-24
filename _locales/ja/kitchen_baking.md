@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Bake Bread
+# パンを焼く
 
-## Step 1
-The Zombie Chef needs help making bread. Use the code blocks to create a recipe the Zombie Chef can follow.
+## ステップ 1
+ゾンビシェフはパンを作るのを手伝ってほしいようだ。コードブロックを使ってゾンビシェフが料理するためのレシピを作ってあげよう。
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint 
-Think about the order of operations it takes to make bread. You'd first ``||hoc22.harvest wheat||``, but then what? There are exactly four steps.
+パンを作るのに必要な作業の手順を考えてみてください。まずは``||hoc22.小麦を収穫する||``ブロック、そしてその後は？ちょうど4つの作業です。
 
 ```ghost
     hoc22.bakingBreadWheat()

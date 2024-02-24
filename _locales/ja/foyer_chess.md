@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Chess Pieces
+# チェスの駒
 
-## Step 1
-We've freed the King and Queen, but the door still isn't opening. The pieces must be in the wrong places. Move them into the correct places, so you can finally escape this place!
+## ステップ 1
+キングとクイーンを解放したが、ドアはまだ開かない。駒が間違った位置にあるのだろう。2つの駒を正しい位置に移動させ、ここから脱出しましょう！
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint 
-The chessboard represents a grid of dates. Search the room to figure out what dates the king and queen should be on and then use the ``||hoc22.move king <direction>||`` and ``||hoc22.move queen <direction>||`` blocks to move them into their correct positions.
+チェス盤は縦横で日付を表している。部屋の中を探してキングとクイーンがどの位置にあるべきか調べ、``||hoc22.キングを移動させる||``ブロックと``||hoc22.クイーンを移動させる||``ブロックを使い正しい位置に動かしてください。
 
 ```ghost
     hoc22.kingMove(Custom.ArrowUpOrange, 1)
