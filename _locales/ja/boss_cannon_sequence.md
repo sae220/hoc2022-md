@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Cannons
+# キャノン
 
-## Step 1
-Each cannon has its own beam color. Activate the cannons in the same order as the colored rings surrounding the Time Orb.
+## ステップ 1
+それぞれのキャノンには対応するビームの色がある。時のオーブを囲むリングの色と同じ順番でキャノンを発射させてください。
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint 
-Pay close attention to the colored rings around the Time Orb. Use the ``||hoc22.activate <color> cannon||`` blocks to match the order of rings around the Time Orb. Start from the outer most ring and work your way in.
+時のオーブの周りのリングの色をみてください。``||hoc22.キャノンを発射する||``ブロックを使い時のオーブの周りのリングの順番と合わせてください。一番外側のリングから始めてだんだん内側のリングに発射しましょう。
 
 ```ghost
     hoc22.magentaCannon()
