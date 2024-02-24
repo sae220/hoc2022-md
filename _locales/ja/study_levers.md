@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Colored Levers
+# 色がついたレバー
 
-## Step 1
-All four levers must flipped in the correct order, very quickly, to open the door. Code the Speedy Knight to rapidly pull the levers for you.
+## ステップ 1
+ドアを開けるには、素早く正しい順番で4つすべてのレバーを引く必要がある。素早い騎士がレバーを引いてくれるようにしてください。
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint 
-Use the ``||hoc22.flip <color> lever||`` blocks to move the Speedy Knight to the selected color and flip the lever. Pay close attention to how many pieces of carpet there are. That will give you a clue on the order.
+``||hoc22.レバーを引く||``ブロックを使い素早い騎士を選ばれた色に移動しせレバーを引かせます。カーペットが何枚あるか確認してください。それが順番のヒントです。
 
 ```ghost
     hoc22.teleportLightBlueLever()

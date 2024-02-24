@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Agent Move
+# 移動させる
 
-## Step 1
-Move the clay ball to the Gold block. Interact with the lightbulb if you need help. Try running the default code to see what happens. Then, make any changes you need to solve the puzzle. This is called debugging.
+## ステップ 1
+粘土玉を金ブロックに移動させてください。ヒントが欲しい場合は、電球ボタンを押してください。まずデフォルトのコードを実行し、何が起こるかを確認し、その後、問題を解くために正しく直してください。これをデバッグと呼びます。
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint  
-Use ``||hoc22.clay ball move <direction> by <number>||`` to move the clay ball onto the Gold block. Adjust the direction variable and how many blocks down it moves in order to reach the Gold block.
+``||hoc22.粘土玉を移動させる||``ブロックを使い粘土玉を金ブロックの上まで移動させてください。金ブロックに着くためにどの方向に何ブロック移動すればいいかを直してください。
 
 ```ghost
     hoc22.clayBallMove(FourDirectionUpDown.Up, 5)

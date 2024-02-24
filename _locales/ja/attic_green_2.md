@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Attic Tutorial
+# 屋根裏のチュートリアル
 
-## Step 1
-Now that the trapdoor is open, move the Agent up two blocks to set it free.
+## ステップ 1
+トラップドアが開いたので、エージェントを2ブロック上に移動させて解放する。
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint 
-Move the Agent up two blocks using the ``||hoc22.agent move <direction> by <number>||`` block.
+``||hoc22.エージェントを移動させる||``ブロックを使いエージェントを2ブロック上に移動させてください。
 
 
 

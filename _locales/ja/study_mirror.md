@@ -3,15 +3,15 @@
 ### @explicitHints true
 
 
-# Wrong Reflection
+# 間違った鏡
 
-## Step 1
-The pumpkins above the fireplace in the mirror is somehow different than the ones in this room. Try making them match.
+## ステップ 1
+暖炉の上のカボチャがこの部屋と鏡の中とでどこか違う。同じにしてみてください。
 
-The included example code is broken, can you fix it? Debug the code by running it to see what it does and then edit it to the correct solution.
+今書かれているコードは壊れています。直してみてください。一度実行してみてどう動くのか確認し、その後正しく直して(デバッグして)ください。
 
 #### ~ tutorialhint 
-Move the cursor above the fireplace using ``||hoc22.cursor move <direction>||`` to select a position and ``||hoc22.place pumpkin||`` to place a pumpkin in that position.
+``||hoc22.カーソルを移動させる||``ブロックを使い暖炉の上のカーソルの位置を決め、``||hoc22.カボチャを置く||``ブロックを使いその位置にカボチャを置いてください。
 
 ```ghost
     hoc22.cursorMoveOrientationOneUp(1)
